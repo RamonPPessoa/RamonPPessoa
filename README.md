@@ -4,7 +4,7 @@
 
 
 **Recem formado em Ciência da Computação, acadêmico do curso Bacharel de Administração, atualmente procuro oportunidade de estágio(renumerado ou voluntário) para adquirir conhecimento e experiência, também disponivel para oportunidade de emprego ...
- Atualmente  estudando  tencologias  Python, PHP,Banco de Dados, finalizando o curso de Introdução ao Teste de Software( USP/Coursera), participando da Formação Microsoft Dev .NET ( Samsung Ocean), participando do Bootcamp Localiza .NET/C# (Digital Innovation One)**
+ Atualmente  estudando  tencologias  Python, C#, PHP,Banco de Dados, finalizando o curso de Introdução ao Teste de Software( USP/Coursera), participando do Bootcamp Localiza .NET/C# (Digital Innovation One)**
 
 
 
