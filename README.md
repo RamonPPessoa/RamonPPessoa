@@ -3,8 +3,8 @@
 
 
 
-**Recem formado no curso Bacharelado em Ciência da Computação, acadêmico do curso Bacharel de Administração, atualmente procuro oportunidade de estágio(renumerado ou voluntário) para adquirir conhecimento e experiência, também disponivel para oportunidade de emprego ...
- Atualmente  estudando  tencologias  Python, C#, PHP,Banco de Dados, participando do Bootcamp Localiza .NET/C# (Digital Innovation One)**
+**Em 2021 concluí o curso Bacharelado em Ciência da Computação, e aguardando a colação de grau, acadêmico do curso Bacharel de Administração, atualmente procuro oportunidade de estágio(renumerado ou voluntário) para adquirir conhecimento e experiência e ou oportunidade de emprego
+ Atualmente  estudando  tencologias  Python, C#, PHP, participando do Bootcamp Localiza .NET/C# (Digital Innovation One)**
 
 
 
@@ -32,7 +32,7 @@
    
   ##
   
-  <a href="https://https://www.instagram.com/ramon_ppessoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pessoapalheta.ramon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramon-palheta-pessoa-de-souza-715503159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
