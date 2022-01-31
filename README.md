@@ -4,7 +4,7 @@
 
 
 <p>Em 2021 concluí o curso Bacharelado em Ciência da Computação, e aguardando a colação de grau, acadêmico do curso Bacharel de Administração, atualmente procuro oportunidade de estágio para adquirir conhecimento e experiência e ou oportunidade de emprego
- Atualmente  estudando  tencologias  Python, C#, PHP,Html/CSS/Java participando do Bootcamp Localiza .NET/C# (Digital Innovation One)</p>
+ Atualmente  estudando  tencologias  Python, C#, PHP,Html/CSS/Java</p>
 
 
 
