@@ -4,7 +4,7 @@
 
 
 <p>Em 2021 concluí o curso Bacharelado em Ciência da Computação,acadêmico do curso Bacharel de Administração, atualmente procuro a primeira oportunidade de na área da TI para adquirir conhecimento e experiência e ou oportunidad
- Atualmente  estudando  tencologias  Python, C#,Html/CSS/Java</p>
+ Atualmente  estudando  tencologias  Python, C#,Html/CSS/Java/QA</p>
 
 
 
