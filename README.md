@@ -3,8 +3,8 @@
 
 
 
-<p>Em 2021 concluí o curso Bacharelado em Ciência da Computação, e aguardando a colação de grau, acadêmico do curso Bacharel de Administração, atualmente procuro oportunidade de estágio para adquirir conhecimento e experiência e ou oportunidade de emprego
- Atualmente  estudando  tencologias  Python, C#, PHP,Html/CSS/Java</p>
+<p>Em 2021 concluí o curso Bacharelado em Ciência da Computação,acadêmico do curso Bacharel de Administração, atualmente procuro a primeira oportunidade de na área da TI para adquirir conhecimento e experiência e ou oportunidad
+ Atualmente  estudando  tencologias  Python, C#,Html/CSS/Java</p>
 
 
 
@@ -17,7 +17,6 @@
   
   <div style="display-flex"><br>
     <img height ="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
     
   <img height ="50" width="70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
