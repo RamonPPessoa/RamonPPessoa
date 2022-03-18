@@ -3,8 +3,8 @@
 
 
 
-<p>Em 2021 concluí o curso Bacharelado em Ciência da Computação,acadêmico do curso Bacharel de Administração, buscando a primeira oportunidade de na área da TI para adquirir conhecimento e experiência.
- Atualmente  estudando  tencologias  Python, C#,Html/CSS/Java/QA</p>
+<p>Em 2021 concluí o curso <strong>Bacharelado em Ciência da Computação</strong>, acadêmico do curso <strong>Bacharelado em Administração</strong>, buscando a primeira oportunidade de na área da TI para adquirir conhecimento e experiência.
+ Atualmente  estudando e focando principalmente nas linguagens de programação/Tecnologias <strong>Python, Java e C#<strong></p>
  
 
 
