@@ -11,12 +11,22 @@
 
 
 <div align="center">
+ 
   <a href="https://github.com/RamonPPessoa">
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonPPessoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonPPessoa&layout=compact&langs_count=7&theme=dark"/>
 
   
-  <div style="display-flex"><br>
+   
+
+    
+ 
+
+  ##
+ 
+   <div style="display-flex"><br>
+    <h2>Principais Tecnologias<h2>
     <img height ="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
     
@@ -28,10 +38,6 @@
     <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    
   </div>
-    </div>
- 
-
-  ##
   
 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
