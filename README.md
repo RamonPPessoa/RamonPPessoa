@@ -4,7 +4,7 @@
 
 
 <p>Em 2021 concluí o curso <strong>Bacharelado em Ciência da Computação</strong>, acadêmico do curso <strong>Bacharelado em Administração</strong>, buscando a primeira oportunidade de na área da TI para adquirir conhecimento e experiência.
- Atualmente  estudando e focando principalmente nas linguagens de programação/Tecnologias <strong>Python, Java e C#<strong></p>
+ Atualmente estudando desenvolvimento de APIs e  estudando e focando principalmente nas linguagens de programação/Tecnologias <strong>Python, Java e C#<strong></p>
  
 
 
@@ -49,9 +49,10 @@
    
    <h2>Outras tecnologias de interesse</h2>
    <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+   
+<img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
-<img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img  height ="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 
