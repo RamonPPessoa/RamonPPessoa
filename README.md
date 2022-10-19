@@ -3,8 +3,8 @@
 
 
 
-<p>Em 2021 concluí o curso <strong>Bacharelado em Ciência da Computação</strong>, buscando a primeira oportunidade de na área da TI para adquirir conhecimento e experiência,acadêmico do curso <strong>Bacharelado em Administração</strong>.
- Atualmente estudando desenvolvimento focando em desenvolvimento <strong>Back-end/APIs</strong>   e as linguagens de programação/Tecnologias <strong>Python, Java,C# e SQL<strong></p>
+<p>Em 2021 concluí o curso <strong>Bacharelado em Ciência da Computação</strong>, primeira formação e exercendo a area da enfermagem durante alguns anos, buscando a primeira oportunidade de na área da TI para adquirir conhecimento e experiência,acadêmico do curso <strong>Bacharelado em Administração</strong>.
+ Atualmente estudando e focando em desenvolvimento <strong>Back-end/APIs</strong>   e as linguagens de programação/Tecnologias <strong>Python, Java,C# e SQL<strong></p>
  
 
 
