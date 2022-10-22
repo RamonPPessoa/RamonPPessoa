@@ -3,7 +3,7 @@
 
 
 
-<p>Formado em <strong>Bacharelado em Ciência da Computação</strong>(2021), primeira formação e exercendo a area da enfermagem durante alguns anos, agora buscando a primeira oportunidade profissional na área da TI para adquirir conhecimento e experiência,acadêmico do curso <strong>Bacharelado em Administração</strong>.
+<p>Formado em <strong>Bacharelado em Ciência da Computação</strong>(2021).Minha primeira formação foi na área de enfermagem na trabalhei durante alguns anos, agora buscando a primeira oportunidade profissional na área da TI para adquirir conhecimento e experiência,acadêmico do curso <strong>Bacharelado em Administração</strong>.
  Atualmente estudando e focando em desenvolvimento <strong>Back-end/APIs</strong>   e as linguagens de programação/Tecnologias <strong>Python, Java,C# e SQL<strong></p>
  
 
