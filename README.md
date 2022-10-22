@@ -4,13 +4,21 @@
 
 
 <p>Formado em <strong>Bacharelado em Ciência da Computação</strong>(2021).Minha primeira formação foi na área de enfermagem na trabalhei durante alguns anos, agora buscando a primeira oportunidade profissional na área da TI para adquirir conhecimento e experiência,acadêmico do curso <strong>Bacharelado em Administração</strong>.
- Atualmente estudando e focando em desenvolvimento <strong>Back-end/APIs</strong>   e as linguagens de programação/Tecnologias <strong>Python, Java,C# e SQL<strong></p>
+ Atualmente estudando e focando em desenvolvimento Back-end/APIs
+ </p>
+:computer: Focando  em desenvolvimento back-end/APIs <br>
+:computer: Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
+:handshake::muscle:Estou disponivel para colaborar  e participar de projetos<br>
+:notes: Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
  
 
 
 
 
-<div align="center">
+
+
+
+<br><div align="center">
  
   <a href="https://github.com/RamonPPessoa">
    
@@ -49,7 +57,6 @@
    <h2>Outras tecnologias de interesse</h2>
    <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
    
-<img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
   
