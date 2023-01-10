@@ -8,7 +8,7 @@
  </p>
 :computer: Focando  em desenvolvimento back-end/APIs <br>
 :computer: Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
-:handshake::muscle:Estou disponivel para colaborar  e participar de projetos<br>
+:handshake::muscle:Estou disponivel para colcaborar e participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
 :notes: Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
  
 
