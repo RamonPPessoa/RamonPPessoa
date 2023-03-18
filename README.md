@@ -8,7 +8,8 @@
  </p>
 :computer: Focando  em desenvolvimento back-end/APIs <br>
 :computer: Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
-:handshake::muscle:Estou disponivel para colcaborar e participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
+:handshake::muscle:Estou disponivel para  participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
+:muscle: Estou disponível para oportunidades de como estagiário,trainee e jr<br>
 :notes: Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
  
 
@@ -41,8 +42,7 @@
   <img height ="50" width="70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  
 <img height ="50" width="70" src = https://user-images.githubusercontent.com/33637915/147134570-12b4e3e2-058d-4f54-a57b-46123aea5b76.png />
-       <a href="https://"><img height ="50" width="50" src="https://camo.githubusercontent.com/27d9f7dc1dd86367aca1ea96420a6208c79469054a03a44687f727b9945d2c97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536372756d2d3035313232413f7374796c653d666c6174266c6f676f3d736372756d" data-canonical-src="https://img.shields.io/badge/-Scrum-05122A?style=flat&amp;logo=scrum" style="max-width: 100%;"></a>
-    <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
    <img height ="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
      <img  height ="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
      <img height ="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
