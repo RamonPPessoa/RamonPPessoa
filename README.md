@@ -9,7 +9,7 @@
 :computer: Focando  em desenvolvimento back-end/APIs <br>
 :computer: Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
 :handshake::muscle:Estou disponivel para  participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
-:muscle: Estou disponível para oportunidades de como estagiário,trainee e jr<br>
+:muscle: Estou disponível para oportunidades como estagiário,trainee ou jr<br>
 :notes: Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
  
 
