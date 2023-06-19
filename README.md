@@ -6,11 +6,11 @@
 <p>Formado em <strong>Bacharelado em Ciência da Computação</strong>(2021).Minha primeira formação foi na área de enfermagem na qual trabalhei durante alguns anos, agora buscando a primeira oportunidade profissional na área da TI para adquirir conhecimento e experiência,acadêmico do curso <strong>Bacharelado em Administração</strong>.
  Atualmente estudando e focando em desenvolvimento Back-end/APIs
  </p>
-:computer: Focando  em desenvolvimento back-end/APIs <br>
-:computer: Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
-:handshake::muscle:Estou disponivel para  participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
-:muscle: Estou disponível para oportunidades como estagiário,trainee ou jr<br>
-:notes: Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
+Focando  em desenvolvimento back-end/APIs <br>
+Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
+Estou disponivel para  participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
+Estou disponível para oportunidades como estagiário,trainee ou jr<br>
+Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
  
 
 
