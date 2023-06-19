@@ -1,4 +1,4 @@
-### Olá, eu sou o Ramon Palheta Pessôa de Souza 👋
+### Olá, eu sou o Ramon Palheta Pessôa de Souza
 ##
 
 
