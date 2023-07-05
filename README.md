@@ -10,7 +10,7 @@ Focando  em desenvolvimento back-end/APIs <br>
 Estudando principalmente .NET/C#,Java,Python,Banco de dados <br>
 Estou disponivel para  participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
 Estou disponível para oportunidades como estagiário,trainee ou jr<br>
-Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista amador
+Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,Baterista amador
  
 
 
@@ -58,10 +58,12 @@ Adoro música: Classic Rock,Heavy Metal,Blues e Instrumental,:drum: Baterista am
    
    
    <h2>Outras tecnologias de interesse</h2>
+
    
+   <img height ="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
    <img height ="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
    <img height ="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img height ="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+   
           
    
   
