@@ -10,7 +10,7 @@ Focando  em desenvolvimento back-end/APIs <br>
 Estudando principalmente .NET/C Sharp,Python,Banco de dados,Ciência de dados,Java <br>
 Estou disponivel para  participar de projetos com o objetivo de adquirir conhecimento e experiência<br>
 Estou disponível para oportunidades como etrainee ou jr<br>
-Meus Hobbies: Classic Rock,Heavy Metal,Blues e Instrumental,Baterista amador, filmes clássicos,ficção científica
+Meus Hobbies: Classic Rock,Heavy Metal,Blues e Instrumental,Baterista amador, filmes clássicos,ficção científica,Hqs.
  
 
 
